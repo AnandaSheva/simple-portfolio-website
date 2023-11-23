@@ -5,4 +5,4 @@ Website portfolio sederhana menggunakan HTML dan CSS
 Live Demo :
 
 Screenshot :
-![screenshot](screenshot.jpg)
+![screenshot](Screenshot.jpg)
